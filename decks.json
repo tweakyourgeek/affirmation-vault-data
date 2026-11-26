@@ -164,6 +164,47 @@
   ]
  },
  {
+  "id": "recC70V5kNHpxAdgE",
+  "name": "Enneagram Type Profile Cards",
+  "theme": "Enneagram",
+  "widgetKey": "enneagram",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/opuox77hof4lji96r8x04efexuou",
+  "added": "2026-11-26",
+  "swatches": [
+   "#f2ece4",
+   "#4f6470"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Human Design Profile Cards",
+   "Daily Reflection Prompt Cards"
+  ]
+ },
+ {
+  "id": "recFDp5uLwJHSAKft",
+  "name": "Sacred Geometry Crystal Grid Cards",
+  "theme": "Crystal Grid",
+  "widgetKey": "crystal-grid",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/pmfvqs2ij1puw4g6tyihzflo0viy",
+  "added": "2026-11-26",
+  "swatches": [
+   "#e8eef2",
+   "#5d6f8a",
+   "#b9c7d6"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Cosmic I AM Affirmation Cards",
+   "Goddess Correspondence Cards"
+  ]
+ },
+ {
   "id": "recFPrGp3MAwSU8ge",
   "name": "Daily Reflection Prompt Cards",
   "theme": "Journal Prompts",
@@ -529,6 +570,26 @@
   "pairsWith": [
    "Shadow Work Cards",
    "Animal Wisdom Oracle Cards"
+  ]
+ },
+ {
+  "id": "recndKBV5AZDpvmgz",
+  "name": "Human Design Profile Cards",
+  "theme": "Human Design",
+  "widgetKey": "human-design",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/82hjbsblayaagwli8xgbwss138gj",
+  "added": "2026-11-26",
+  "swatches": [
+   "#efe7dc",
+   "#6a5a7d"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Enneagram Type Profile Cards",
+   "Purpose Affirmation Cards"
   ]
  },
  {
