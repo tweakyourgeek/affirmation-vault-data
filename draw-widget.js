@@ -32,7 +32,7 @@ document.querySelectorAll(".face").forEach(f=>f.style.backgroundImage="url("+D.b
 })();
 (() => {
   const btn=document.getElementById('shareBtn'),card=document.getElementById('card'),text=document.getElementById('text'),status=document.getElementById('status');
-  new MutationObserver(()=>{btn.hidden=!card.classList.contains('showing')}).observe(card,{attributes:true,attributeFilter:['class']});
+  btn.hidden=false;
   const loadImg=src=>new Promise(res=>{const i=new Image();i.crossOrigin='anonymous';i.onload=()=>res(i);i.onerror=()=>res(null);i.src=src+(src.includes('?')?'&':'?')+'share=1'});
   function wrap(ctx,words,maxW){const lines=[];let line='';for(const w of words.split(/\s+/)){const t=line?line+' '+w:w;if(ctx.measureText(t).width>maxW&&line){lines.push(line);line=w}else line=t}if(line)lines.push(line);return lines}
   function rr(ctx,x,y,w,h,r){ctx.beginPath();ctx.moveTo(x+r,y);ctx.arcTo(x+w,y,x+w,y+h,r);ctx.arcTo(x+w,y+h,x,y+h,r);ctx.arcTo(x,y+h,x,y,r);ctx.arcTo(x,y,x+w,y,r);ctx.closePath()}
@@ -54,7 +54,7 @@ document.querySelectorAll(".face").forEach(f=>f.style.backgroundImage="url("+D.b
     return new Promise(r=>c.toBlob(r,'image/png'));
   }
   btn.addEventListener('click',async()=>{
-    const words=text.textContent.trim();if(!words)return;btn.disabled=true;const old=btn.textContent;btn.textContent='Making your card…';
+    const words=text.textContent.trim();if(!words||!card.classList.contains('showing')){status.textContent='Draw a card first, then tap Share this card.';return}btn.disabled=true;const old=btn.textContent;btn.textContent='Making your card…';
     try{const blob=await makeCard(words);const name=(P+'-affirmation.png');const file=new File([blob],name,{type:'image/png'});
       let shared=false;if(navigator.canShare&&navigator.canShare({files:[file]})){try{await navigator.share({files:[file],title:D.n,text:words+' ✦ The Affirmation Deck Library by Tweak Your Geek'});shared=true}catch(e){if(e&&e.name==='AbortError')shared=true}}
       if(!shared){const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=name;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},2000);status.textContent='Saved! Your share card is in your downloads, ready for your socials.'}
