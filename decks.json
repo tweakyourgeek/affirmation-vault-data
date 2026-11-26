@@ -81,6 +81,26 @@
   ]
  },
  {
+  "id": "rec70S2bKkXrxpEVh",
+  "name": "Ritual & Bloom Beltane Cards",
+  "theme": "Beltane",
+  "widgetKey": "ritual-bloom",
+  "season": "Spring",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/66tn5eua6b1s3m98vrf16rwlp7jg",
+  "added": "2026-11-26",
+  "swatches": [
+   "#f6dfe3",
+   "#9b4d62"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Wheel of the Year Altar Cards",
+   "Goddess Correspondence Cards"
+  ]
+ },
+ {
   "id": "rec7gNBTYCh2nUiIK",
   "name": "Sweet Affirmation Cards",
   "theme": "Sweet",
@@ -141,6 +161,146 @@
   "pairsWith": [
    "Healthy Eating Affirmation Cards",
    "Habits Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recFPrGp3MAwSU8ge",
+  "name": "Daily Reflection Prompt Cards",
+  "theme": "Journal Prompts",
+  "widgetKey": "daily-reflection",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/58u06snnrzzx1abu6cr86zd6nhv7",
+  "added": "2026-11-26",
+  "swatches": [
+   "#eef0e6",
+   "#6f7a58"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Libra Season Reflection Prompts",
+   "Mindfulness Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recGGVVN2mHY4Tdzm",
+  "name": "I AM Healing Affirmation Cards",
+  "theme": "Healing",
+  "widgetKey": "healing",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/zulay0jmeto4shykyyxdmxd5pllh",
+  "added": "2026-11-26",
+  "swatches": [
+   "#e4efe9",
+   "#5f8a7a"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Self Care Affirmation Cards",
+   "Shadow Work Cards"
+  ]
+ },
+ {
+  "id": "recGGwtoG8ljBZAsE",
+  "name": "Animal Wisdom Oracle Cards",
+  "theme": "Animal Spirit",
+  "widgetKey": "animal-wisdom",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/k5sz2gthaq98j0safs60ildad6xa",
+  "added": "2026-11-26",
+  "swatches": [
+   "#e9e4d8",
+   "#5b6b4a"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Goddess Correspondence Cards",
+   "Wheel of the Year Altar Cards"
+  ]
+ },
+ {
+  "id": "recMv4Hqx1eKx1HYP",
+  "name": "Motherhood Empowerment Affirmation Cards",
+  "theme": "Motherhood",
+  "widgetKey": "motherhood",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/rr5mw9lu96488rw0372j9j2aanxm",
+  "added": "2026-11-26",
+  "swatches": [
+   "#f8e9e1",
+   "#b9776a"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "New Mama Affirmation Cards",
+   "Birth Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recN0WVKunabALT6F",
+  "name": "Abundance & Manifestation Affirmation Cards",
+  "theme": "Manifestation",
+  "widgetKey": "abundance",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/8rqxph46a7y9yu117t1t5algrh6g",
+  "added": "2026-11-26",
+  "swatches": [
+   "#f4e7c5",
+   "#b8893b"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Manifestation Affirmation Cards",
+   "Business Mindset Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recNoESexVUkCxrqi",
+  "name": "Wheel of the Year Altar Cards",
+  "theme": "Wheel of the Year",
+  "widgetKey": "wheel-of-the-year",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/19eo5fbtnhl3vmoiihmyk47r17jc",
+  "added": "2026-11-26",
+  "swatches": [
+   "#efe6d6",
+   "#7a5b3a"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Imbolc Affirmation Cards",
+   "Ritual & Bloom Beltane Cards"
+  ]
+ },
+ {
+  "id": "recO8yHw0W3zD15Da",
+  "name": "Imbolc Affirmation Cards",
+  "theme": "Imbolc",
+  "widgetKey": "imbolc",
+  "season": "Winter",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/z9ii4822ja2s82uae5jklnpb5la5",
+  "added": "2026-11-26",
+  "swatches": [
+   "#f2efe9",
+   "#8a9aa8"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Wheel of the Year Altar Cards",
+   "Ritual & Bloom Beltane Cards"
   ]
  },
  {
@@ -249,6 +409,26 @@
   ]
  },
  {
+  "id": "recZOJnkMspbt7rTW",
+  "name": "Shadow Work Cards",
+  "theme": "Shadow Work",
+  "widgetKey": "shadow-work",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/dobvmox0e6drllvt1iumz7brw8ij",
+  "added": "2026-11-26",
+  "swatches": [
+   "#2a2433",
+   "#b9a6c9"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Goddess Correspondence Cards",
+   "I AM Healing Affirmation Cards"
+  ]
+ },
+ {
   "id": "recbwSDLGXEWXwSNb",
   "name": "Anxiety Affirmation Cards",
   "theme": "Anxiety",
@@ -291,6 +471,67 @@
   ]
  },
  {
+  "id": "recghZNHrmJBUNQo9",
+  "name": "Word of the Year Cards",
+  "theme": "New Year",
+  "widgetKey": "word-of-the-year",
+  "season": "Winter",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/62xlh6yr6alozcx9pg66u8435v5z",
+  "added": "2026-11-26",
+  "swatches": [
+   "#f5efe2",
+   "#4c5c70"
+  ],
+  "spotlight": false,
+  "dropMonth": "2026-12",
+  "pairsWith": [
+   "Renewal & Reflection Affirmation Cards",
+   "Purpose Affirmation Cards"
+  ]
+ },
+ {
+  "id": "reckOJjxeDs8faZTD",
+  "name": "Renewal & Reflection Affirmation Cards",
+  "theme": "New Year",
+  "widgetKey": "renewal",
+  "season": "Winter",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/q3lf2oaeg7cs8lwlw2fu9w7tux4d",
+  "added": "2026-11-26",
+  "swatches": [
+   "#ece6f2",
+   "#6d5a8a"
+  ],
+  "spotlight": false,
+  "dropMonth": "2026-12",
+  "pairsWith": [
+   "Word of the Year Cards",
+   "Reflection Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recnZkNtrfNxYChlT",
+  "name": "Goddess Correspondence Cards",
+  "theme": "Goddess",
+  "widgetKey": "goddess",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/xk5j5kslx4cmrtp2apdq5orsaf1u",
+  "added": "2026-11-26",
+  "swatches": [
+   "#f1e4d3",
+   "#8c5a3c",
+   "#d8b58a"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Shadow Work Cards",
+   "Animal Wisdom Oracle Cards"
+  ]
+ },
+ {
   "id": "reco1pCgXulP1D3oX",
   "name": "Growth Mindset Affirmation Cards",
   "theme": "Growth Mindset",
@@ -312,6 +553,26 @@
   ]
  },
  {
+  "id": "recobSKZL9YZx0BfK",
+  "name": "I AM Affirmation Cards",
+  "theme": "I Am",
+  "widgetKey": "i-am",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/215rqhsul0pbl0pnykakdxl1tzgd",
+  "added": "2026-11-26",
+  "swatches": [
+   "#f3e6dc",
+   "#b58b7a"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Cosmic I AM Affirmation Cards",
+   "Self Love Affirmation Cards"
+  ]
+ },
+ {
   "id": "recpskh1wIjhaMZN2",
   "name": "Funny Affirmation Cards",
   "theme": "Funny",
@@ -330,6 +591,26 @@
   "pairsWith": [
    "Sweet Affirmation Cards",
    "Positive Thought Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recqr8LTz2wHcIr3m",
+  "name": "Cosmic I AM Affirmation Cards",
+  "theme": "I Am",
+  "widgetKey": "cosmic-i-am",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/hecua5454brw48tzvlru3vssztuj",
+  "added": "2026-11-26",
+  "swatches": [
+   "#1f2147",
+   "#c9a96e"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "I AM Affirmation Cards",
+   "Abundance & Manifestation Affirmation Cards"
   ]
  },
  {
@@ -374,6 +655,26 @@
   ]
  },
  {
+  "id": "rectLYKg1dJgcSMqy",
+  "name": "Business Mindset Affirmation Cards",
+  "theme": "Business",
+  "widgetKey": "business-mindset",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/6art9tcgq5o4tr6777hs8ze1eno3",
+  "added": "2026-11-26",
+  "swatches": [
+   "#f1ebe1",
+   "#3c4a3f"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Business Affirmation Cards",
+   "Abundance & Manifestation Affirmation Cards"
+  ]
+ },
+ {
   "id": "recwCVY18dai0cU4n",
   "name": "Mindfulness Affirmation Cards",
   "theme": "Mindfulness",
@@ -392,6 +693,26 @@
   "pairsWith": [
    "Anxiety Affirmation Cards",
    "Reflection Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recx39o4daOeGlbS5",
+  "name": "Libra Season Reflection Prompts",
+  "theme": "Journal Prompts",
+  "widgetKey": "libra",
+  "season": "Fall",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/o9jptvyzhpflll8r3t823fne918b",
+  "added": "2026-11-26",
+  "swatches": [
+   "#f3e3e0",
+   "#a06a6a"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Daily Reflection Prompt Cards",
+   "Love Affirmation Cards"
   ]
  },
  {
