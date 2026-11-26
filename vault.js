@@ -49,7 +49,7 @@ dialog{width:min(880px,94vw);max-height:88dvh;overflow:auto;background:var(--pap
   function applyPalette(){const n=themeSetting.value;$('.vault').dataset.palette=n==='Auto'?['Winter','Spring','Summer','Autumn'][Math.floor(((new Date().getMonth()+1)%12)/3)]:n}
   themeSetting.onchange=()=>{write(paletteKey,themeSetting.value);applyPalette()};applyPalette();
   const video=$('video'),motion=$('.motion'),motionQuery=matchMedia('(prefers-reduced-motion: reduce)');
-  const HEROES={9:'storefront-autumn',10:'storefront-autumn'},heroArt=HEROES[new Date().getMonth()];if(heroArt){video.removeAttribute('src');video.poster=BASE+'heroes/'+heroArt+'.webp';$('.hero').classList.add('store')}
+  const HEROES=['storefront-winter','storefront-winter','storefront-spring','storefront-spring','storefront-spring','storefront-summer','storefront-summer','storefront-summer','storefront-autumn','storefront-autumn','storefront-autumn','storefront-holiday'],heroArt=HEROES[new Date().getMonth()];if(heroArt){video.removeAttribute('src');video.poster=BASE+'heroes/'+heroArt+'.webp';$('.hero').classList.add('store')}
   function motionLabel(){motion.textContent=video.paused?'Play motion':'Pause motion'}
   video.onplay=video.onpause=motionLabel;video.muted=true;
   function play(){video.play().catch(motionLabel)}if(!motionQuery.matches&&video.getAttribute('src'))play();
