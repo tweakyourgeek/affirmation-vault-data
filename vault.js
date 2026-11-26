@@ -106,7 +106,8 @@ dialog{width:min(880px,94vw);max-height:88dvh;overflow:auto;background:var(--pap
     $('.swatches').replaceChildren();for(const hex of d.swatches){const sw=node('span','dot');sw.style.backgroundColor=hex;sw.title=hex;sw.setAttribute('aria-label',hex);sw.setAttribute('role','img');$('.swatches').append(sw)}
     const pairs=d.pairsWith.map(name=>catalog.find(x=>x.name.toLowerCase()===name.toLowerCase()&&x.id!==d.id)).filter(Boolean);
     $('.pairs').hidden=!pairs.length;$('.pairBar').replaceChildren();for(const x of pairs){const b=button('','',()=>{openDeck(x);$('.close').focus()});b.append(img(x),node('span','',x.name));$('.pairBar').append(b)}
-    if(!dialog.open)dialog.showModal();dialog.scrollTop=0}
+    if(!dialog.open)dialog.showModal();dialog.scrollTop=0;placeDialog()}
+  function placeDialog(){let fe=null;try{fe=window.frameElement}catch(e){}if(!fe)return;const r=fe.getBoundingClientRect(),vh=window.parent.innerHeight;dialog.style.position='absolute';dialog.style.margin='0 auto';dialog.style.maxHeight=Math.round(vh*.88)+'px';dialog.style.top=Math.round(window.scrollY-r.top+vh*.06)+'px'}
   $('.close').onclick=()=>dialog.close();dialog.onclose=()=>{current=null};dialog.onclick=e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}};
   for(const [label,id,hot] of [['This season','v-season',1],['Our picks','v-picks'],['Just landed','v-new'],...(sorted.some(d=>d.exclusive)?[['Exclusives','v-excl']]:[]),...COLLECTIONS.map(([t],i)=>[t,'v-c'+i]),['All themes','v-themes']]){const b=button(hot?'hot':'',label,()=>{if(search.value||theme.value||license.value||onlySaved){search.value=theme.value=license.value='';onlySaved=false;render()}root.getElementById(id)?.scrollIntoView({behavior:'smooth',block:'start'})});$('.topnav').append(b)}$('.footer').hidden=!catalogPreview;if(!video.getAttribute('src'))motion.hidden=true;render();
 })();
