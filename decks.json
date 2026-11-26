@@ -1,0 +1,418 @@
+[
+ {
+  "id": "rec3j4q7Wh1sSy8Ra",
+  "name": "Business Affirmation Cards",
+  "theme": "Business",
+  "widgetKey": "business",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/iecsdxux7nt2csw7zk7bgczu37oj",
+  "added": "2026-11-26",
+  "swatches": [
+   "#fdedd8",
+   "#7b7b6e"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Manifestation Affirmation Cards",
+   "Growth Mindset Affirmation Cards"
+  ]
+ },
+ {
+  "id": "rec3xZzu8XWYhEz2u",
+  "name": "Reflection Affirmation Cards",
+  "theme": "Reflection",
+  "widgetKey": "reflection",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/c7juyc2h04qk2w80rhcgxwdc6wv6",
+  "added": "2026-11-26",
+  "swatches": [
+   "#8b5450",
+   "#fde3ca",
+   "#c18e73"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Mindfulness Affirmation Cards",
+   "Gratitude Affirmation Cards"
+  ]
+ },
+ {
+  "id": "rec4WyXehQDlcQowU",
+  "name": "Self Love Affirmation Cards",
+  "theme": "Self Love",
+  "widgetKey": "self-love",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/86k1maq3zo8jv9wp4isqw18ewoa2",
+  "added": "2026-11-26",
+  "swatches": [
+   "#fdebd6",
+   "#d3afa2"
+  ],
+  "spotlight": true,
+  "dropMonth": "",
+  "pairsWith": [
+   "Self Care Affirmation Cards",
+   "Love Affirmation Cards"
+  ]
+ },
+ {
+  "id": "rec5ed3bKMjlfl8LN",
+  "name": "Gratitude Affirmation Cards",
+  "theme": "Gratitude",
+  "widgetKey": "gratitude",
+  "season": "Fall",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/3up48n2pvn1mv60izgy2jwzgf61y",
+  "added": "2026-11-26",
+  "swatches": [
+   "#c67f4b",
+   "#feebce"
+  ],
+  "spotlight": false,
+  "dropMonth": "2026-11",
+  "pairsWith": [
+   "Positive Thought Affirmation Cards",
+   "Reflection Affirmation Cards"
+  ]
+ },
+ {
+  "id": "rec7gNBTYCh2nUiIK",
+  "name": "Sweet Affirmation Cards",
+  "theme": "Sweet",
+  "widgetKey": "sweet",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/kixf407pr1ztqpz8sd0uxlscwwya",
+  "added": "2026-11-26",
+  "swatches": [
+   "#feebd7",
+   "#ea9481",
+   "#f8ccaf"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Love Affirmation Cards",
+   "Funny Affirmation Cards"
+  ]
+ },
+ {
+  "id": "rec7nfZ8JRbWhZNGH",
+  "name": "Creativity Affirmation Cards",
+  "theme": "Creativity",
+  "widgetKey": "creativity",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/qkx2ur85bq3uvbuzpebngwnvswhk",
+  "added": "2026-11-26",
+  "swatches": [
+   "#fdead4",
+   "#c5866a",
+   "#e9ce9d"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Purpose Affirmation Cards",
+   "Funny Affirmation Cards"
+  ]
+ },
+ {
+  "id": "rec84afZ4t7zMYa76",
+  "name": "Fitness Affirmation Cards",
+  "theme": "Fitness",
+  "widgetKey": "fitness",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/9f4af3zwxl16a2v0kq5ht543qzko",
+  "added": "2026-11-26",
+  "swatches": [
+   "#feebd7",
+   "#c98e6b",
+   "#ceceaa"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Healthy Eating Affirmation Cards",
+   "Habits Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recRZ4ATjQgbkCPqC",
+  "name": "Purpose Affirmation Cards",
+  "theme": "Purpose",
+  "widgetKey": "purpose",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/q4d7rr7gcder6tpq3vtz3h5vxoww",
+  "added": "2026-11-26",
+  "swatches": [
+   "#4c5c3a",
+   "#fce9cf",
+   "#a0a774"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Manifestation Affirmation Cards",
+   "Reflection Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recSQsQOY4mxoWhD8",
+  "name": "Manifestation Affirmation Cards",
+  "theme": "Manifestation",
+  "widgetKey": "manifestation",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/26gm6awmhndroa4pqmfbfl7h22e6",
+  "added": "2026-11-26",
+  "swatches": [
+   "#684459",
+   "#dcb18a",
+   "#fde4cc"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Purpose Affirmation Cards",
+   "Business Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recUooX4P6TczicTs",
+  "name": "Positive Thought Affirmation Cards",
+  "theme": "Positive Thought",
+  "widgetKey": "positive-thought",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/06uyocvnhss6eqpug39649vmvb25",
+  "added": "2026-11-26",
+  "swatches": [
+   "#fef4e5",
+   "#bbb975",
+   "#d5e1d0"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Gratitude Affirmation Cards",
+   "Funny Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recV0cAjXrdNVlahb",
+  "name": "Healthy Eating Affirmation Cards",
+  "theme": "Healthy Eating",
+  "widgetKey": "healthy-eating",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/buja13xxlm5r7c40a0fvb0ye1cee",
+  "added": "2026-11-26",
+  "swatches": [
+   "#95853a",
+   "#e3cb7b",
+   "#fdeccd"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Fitness Affirmation Cards",
+   "Habits Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recXq20CzvfWofyJF",
+  "name": "New Mama Affirmation Cards",
+  "theme": "New Mama",
+  "widgetKey": "new-mama",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/iktjogs56tksxa5h2l8jc3yecbyy",
+  "added": "2026-11-26",
+  "swatches": [
+   "#ada8a2",
+   "#fef1e1",
+   "#ddd5ca"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Birth Affirmation Cards",
+   "Self Care Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recbwSDLGXEWXwSNb",
+  "name": "Anxiety Affirmation Cards",
+  "theme": "Anxiety",
+  "widgetKey": "anxiety",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/70qosae1t1syr7tj0zw62ti65202",
+  "added": "2026-11-26",
+  "swatches": [
+   "#fef2e3",
+   "#6a888b",
+   "#a9c1bd"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Mindfulness Affirmation Cards",
+   "Self Care Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recfkfdXxNO53LeUz",
+  "name": "Habits Affirmation Cards",
+  "theme": "Habits",
+  "widgetKey": "habits",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/98twq97wzf8y9kaweg8pw7fxnkyt",
+  "added": "2026-11-26",
+  "swatches": [
+   "#fef3e1",
+   "#749475",
+   "#bcd1b9"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Growth Mindset Affirmation Cards",
+   "Fitness Affirmation Cards"
+  ]
+ },
+ {
+  "id": "reco1pCgXulP1D3oX",
+  "name": "Growth Mindset Affirmation Cards",
+  "theme": "Growth Mindset",
+  "widgetKey": "growth-mindset",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/3r9jxqpd7izz8zxruwi5bdbvmypa",
+  "added": "2026-11-26",
+  "swatches": [
+   "#a69b4d",
+   "#fdeed7",
+   "#dfcf92"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Habits Affirmation Cards",
+   "Business Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recpskh1wIjhaMZN2",
+  "name": "Funny Affirmation Cards",
+  "theme": "Funny",
+  "widgetKey": "funny",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/rp604p8kanl2sfgz97r31ujblvln",
+  "added": "2026-11-26",
+  "swatches": [
+   "#fef1df",
+   "#bc7179",
+   "#caccb2"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Sweet Affirmation Cards",
+   "Positive Thought Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recsiHKxhAAsO31zT",
+  "name": "Self Care Affirmation Cards",
+  "theme": "Self Care",
+  "widgetKey": "self-care",
+  "season": "Winter",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/4utf5uwni3vcn0el4ship8wr3rvl",
+  "added": "2026-11-26",
+  "swatches": [
+   "#a4716b",
+   "#fdebdd",
+   "#d2a593"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Self Love Affirmation Cards",
+   "Anxiety Affirmation Cards"
+  ]
+ },
+ {
+  "id": "rectCNAHN0dGs9sWs",
+  "name": "Love Affirmation Cards",
+  "theme": "Love",
+  "widgetKey": "love",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/mi00v74w5g7hjxwl05rdbmjrv1cv",
+  "added": "2026-11-26",
+  "swatches": [
+   "#fee4d1",
+   "#e8bd9f"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Sweet Affirmation Cards",
+   "Self Love Affirmation Cards"
+  ]
+ },
+ {
+  "id": "recwCVY18dai0cU4n",
+  "name": "Mindfulness Affirmation Cards",
+  "theme": "Mindfulness",
+  "widgetKey": "mindfulness",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/2rw0gj6x5w90impz3cxbtpvgmfhe",
+  "added": "2026-11-26",
+  "swatches": [
+   "#fef1e0",
+   "#88856e",
+   "#ccc0a3"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "Anxiety Affirmation Cards",
+   "Reflection Affirmation Cards"
+  ]
+ },
+ {
+  "id": "reczWgY9msOMNaZxT",
+  "name": "Birth Affirmation Cards",
+  "theme": "Birth",
+  "widgetKey": "birth",
+  "season": "Year-round",
+  "license": "use-anywhere",
+  "cover": "https://d2t2dci1xo5aii.cloudfront.net/uo2f25jvu5yx93o7b5d2wntlysn4",
+  "added": "2026-11-26",
+  "swatches": [
+   "#d8a198",
+   "#fad9bb",
+   "#feefde"
+  ],
+  "spotlight": false,
+  "dropMonth": "",
+  "pairsWith": [
+   "New Mama Affirmation Cards",
+   "Anxiety Affirmation Cards"
+  ]
+ }
+]
