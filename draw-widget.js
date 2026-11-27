@@ -50,7 +50,7 @@ document.querySelectorAll(".face").forEach(f=>f.style.backgroundImage="url("+D.b
     const lh=(size+2)*1.15,top=cy+ch/2-(lines.length-1)*lh/2;lines.forEach((l,i)=>x.fillText(l,W/2,top+i*lh));
     x.fillStyle='#4a315d';x.font="700 26px 'DM Sans', Arial, sans-serif";x.fillText(D.n.toUpperCase().split('').join(String.fromCharCode(8202)),W/2,cy+ch+70);
     x.fillStyle='#625866';x.font="400 26px 'DM Sans', Arial, sans-serif";x.fillText('from The Deck Shoppe by Tweak Your Geek',W/2,cy+ch+116);
-    x.fillStyle='#c87957';x.font="700 24px 'DM Sans', Arial, sans-serif";x.fillText('learn.tweakyourgeek.net/affirmation-deck-library',W/2,cy+ch+158);
+    x.fillStyle='#c87957';x.font="700 24px 'DM Sans', Arial, sans-serif";x.fillText('learn.tweakyourgeek.net/deck-shoppe',W/2,cy+ch+158);
     return new Promise(r=>c.toBlob(r,'image/png'));
   }
   btn.addEventListener('click',async()=>{
